@@ -1,0 +1,13 @@
+{
+  "url": "https://github.com/Example-Org",
+  "github_api_token": "YOUR_API_TOKEN",
+  "org": "Example-Org",
+  "org_username": "exampleorg",
+  "name": "Name of Organisation",
+  "prefix": "TEST1000_2018_S1",
+  "team_instructors": "instructors",
+  "team_students": "students",
+  "repo_instructors": "instructors",
+  "repo_instructors_path_config": "config",
+  "repo_update_branch": "instructor_updates"
+}
