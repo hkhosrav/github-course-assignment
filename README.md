@@ -9,3 +9,22 @@ https://github.com/hkhosrav/github-course-assignment
 
 ## Usage
 Visit the [Wiki](../../wiki) for information on setting up.
+
+## Screenshots
+### Organisation home
+The instructors repository and student repositories.
+
+![GradingReadme](https://github.com/hkhosrav/github-course-assignment/blob/master/docs/img/org_home.png)
+
+
+
+### Instructors repository
+The configuration files, assessment files and status in the instructors repository.
+
+![GradingReadme](https://github.com/hkhosrav/github-course-assignment/blob/master/docs/img/instructors_repo.png)
+
+
+### Grading README.md
+After assessment has been closed a ZIP of the most recent submission and a link to browse the submission on GitHub will be displayed here.
+
+![GradingReadme](https://github.com/hkhosrav/github-course-assignment/blob/master/docs/img/grading_readme.png)
