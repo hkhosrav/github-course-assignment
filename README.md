@@ -8,4 +8,4 @@ https://github.com/hkhosrav/github-course-assignment
 2. A GitHub organisation.
 
 ## Usage
-Visit the [Wiki](../../wiki).
+Visit the [Wiki](../../wiki) for information on setting up.
